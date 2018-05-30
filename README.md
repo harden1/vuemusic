@@ -154,7 +154,6 @@
 
 ![image](https://github.com/harden1/vuemusic/blob/master/static/4.png)
 
-![image](https://github.com/harden1/vuemusic/blob/master/static/5.png)
 
 
 ### 安装与运行
